@@ -13,9 +13,7 @@
 * Diagrama Visual do Banco de Dados.
 
 ###### Pesquisa de API'S
-
 https://medium.com/ciclic-techblog/criando-um-app-de-reconhecimento-de-imagem-com-o-firebase-ml-kit-80dfcf7028b6
-https://trackingjs.com 
 
 ###### Perguntas em fóruns
 https://cursos.alura.com.br/forum/topico-por-onde-comecar-com-reconhecimento-de-imagens-90665
@@ -24,3 +22,5 @@ https://cursos.alura.com.br/forum/topico-por-onde-comecar-com-reconhecimento-de-
 https://www.casadocodigo.com.br/products/livro-visao-computacional?_pos=3&_sid=7979414e3&_ss=r
 https://edisciplinas.usp.br/mod/folder/view.php?id=1041387
 
+##### Pesquisa de Recursos para Visão Computacional
+https://trackingjs.com 
