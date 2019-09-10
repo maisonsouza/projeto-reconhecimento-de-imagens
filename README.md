@@ -14,7 +14,7 @@
 
 ###### Pesquisa de API'S
 
-https://trackingjs.com
+https://trackingjs.com 
 https://medium.com/ciclic-techblog/criando-um-app-de-reconhecimento-de-imagem-com-o-firebase-ml-kit-80dfcf7028b6
 
 ###### Perguntas em fóruns
