@@ -24,3 +24,6 @@ https://edisciplinas.usp.br/mod/folder/view.php?id=1041387
 
 ###### Pesquisa de Recursos para Visão Computacional
 https://trackingjs.com 
+
+##### Canal da OpenCV
+https://www.youtube.com/channel/UCeoXXZ2u_cUQ6CJ-oXpss9w/videos
